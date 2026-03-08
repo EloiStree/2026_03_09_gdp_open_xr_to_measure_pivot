@@ -2,7 +2,7 @@
 
 ```
 git submodule add https://github.com/EloiStree/2026_03_09_gdp_open_xr_to_measure_pivot.git addons/2026_03_09_gdp_open_xr_to_measure_pivot
-git submodule update --init --recursive
+
 ```
 
 ```
